@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Taco Bell Rest API Lab.props" />
+</Project>
